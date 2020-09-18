@@ -26,7 +26,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "M:\\RaceSimulator\\Model\\Model.csproj": {
+                "projectPath": "M:\\RaceSimulator\\Model\\Model.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
