@@ -7,3 +7,6 @@ M:\RaceSimulator\Controller\obj\Debug\netcoreapp3.1\Controller.AssemblyInfo.cs
 M:\RaceSimulator\Controller\obj\Debug\netcoreapp3.1\Controller.csproj.CoreCompileInputs.cache
 M:\RaceSimulator\Controller\obj\Debug\netcoreapp3.1\Controller.dll
 M:\RaceSimulator\Controller\obj\Debug\netcoreapp3.1\Controller.pdb
+M:\RaceSimulator\Controller\bin\Debug\netcoreapp3.1\Model.dll
+M:\RaceSimulator\Controller\bin\Debug\netcoreapp3.1\Model.pdb
+M:\RaceSimulator\Controller\obj\Debug\netcoreapp3.1\Controller.csproj.CopyComplete

@@ -3,7 +3,7 @@ using Model;
 
 namespace Controller
 {
-    public class Data
+    public static class Data
     {
         public static Competition competition { get; set; }
         public static Race CurrentRace;
@@ -57,7 +57,7 @@ namespace Controller
                     Performance = 110,
                     Speed = 25
                 },
-                TeamColor = TeamColors.Yellow
+                TeamColor = TeamColors.Blue
             });
         }
 
