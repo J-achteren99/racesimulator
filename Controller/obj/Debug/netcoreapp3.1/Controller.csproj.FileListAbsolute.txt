@@ -1,0 +1,9 @@
+M:\RaceSimulator\Controller\bin\Debug\netcoreapp3.1\Controller.deps.json
+M:\RaceSimulator\Controller\bin\Debug\netcoreapp3.1\Controller.dll
+M:\RaceSimulator\Controller\bin\Debug\netcoreapp3.1\Controller.pdb
+M:\RaceSimulator\Controller\obj\Debug\netcoreapp3.1\Controller.csprojAssemblyReference.cache
+M:\RaceSimulator\Controller\obj\Debug\netcoreapp3.1\Controller.AssemblyInfoInputs.cache
+M:\RaceSimulator\Controller\obj\Debug\netcoreapp3.1\Controller.AssemblyInfo.cs
+M:\RaceSimulator\Controller\obj\Debug\netcoreapp3.1\Controller.csproj.CoreCompileInputs.cache
+M:\RaceSimulator\Controller\obj\Debug\netcoreapp3.1\Controller.dll
+M:\RaceSimulator\Controller\obj\Debug\netcoreapp3.1\Controller.pdb
