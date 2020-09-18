@@ -1,8 +1,9 @@
-M:\RaceSimulator\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
-M:\RaceSimulator\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
-M:\RaceSimulator\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
 M:\RaceSimulator\Model\bin\Debug\netcoreapp3.1\Model.deps.json
 M:\RaceSimulator\Model\bin\Debug\netcoreapp3.1\Model.dll
 M:\RaceSimulator\Model\bin\Debug\netcoreapp3.1\Model.pdb
+M:\RaceSimulator\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+M:\RaceSimulator\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+M:\RaceSimulator\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
 M:\RaceSimulator\Model\obj\Debug\netcoreapp3.1\Model.dll
 M:\RaceSimulator\Model\obj\Debug\netcoreapp3.1\Model.pdb
+M:\RaceSimulator\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
