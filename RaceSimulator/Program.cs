@@ -13,8 +13,7 @@ namespace RaceSimulator
             Console.WriteLine("Race Simulator!");
             Data.Init();
             Data.NextRace();
-            Console.WriteLine($"Trackname: {Data.CurrentRace.Track.Name}");
-            Console.WriteLine("The end...");
+            Display.DrawTrack(Data.CurrentRace.Track);
 
             for (; ; )
             {
